@@ -10,7 +10,8 @@ Projeto de estudo de uma plataforma semelhante ao iFood
   * Node 12.18+
   * Git
   
-  ####Comandos de instalação
+  #### Comandos de instalação
+  
   * Clonar o repositório
   
         git clone https://github.com/felipefl200/larafood.git
